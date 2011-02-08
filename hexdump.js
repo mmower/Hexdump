@@ -4,7 +4,8 @@
 // 08-02-2011
 // License: MIT
 //
-// Dump a Javascript string to the console in hexadecimal.
+// None of the other JS hex dump libraries I could find
+// seemed to work so I cobbled this one together.
 //
 
 var Hexdump = {
