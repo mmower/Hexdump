@@ -1,0 +1,11 @@
+# Hexdump
+
+I couldn't find a Javascript Hexdump library that seemed to work so I cobbled this one together.
+
+To use include `Hexdump.js` then use something like:
+
+    console.log( Hexdump.dump( string ) )
+
+## License
+
+Published under the MIT LICENSE
